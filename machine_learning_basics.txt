@@ -1,0 +1,13 @@
+Machine Learning Basics
+
+Machine learning is a branch of artificial intelligence where computers learn patterns from data instead of following fixed rules written by a programmer.
+
+In supervised learning, the model is trained on labeled examples, so every input comes with the correct output. Classification predicts a category, such as spam or not spam, while regression predicts a number, such as the price of a house.
+
+In unsupervised learning, the data has no labels, and the model tries to find structure on its own. Clustering is a common example, where similar data points are grouped together.
+
+Overfitting happens when a model memorizes the training data and performs badly on new data. Splitting the dataset into training and testing sets helps to detect overfitting. Regularization and collecting more data can reduce it.
+
+Gradient descent is an optimization algorithm that repeatedly adjusts the model parameters in the direction that reduces the loss function. The learning rate controls how big each step is. A learning rate that is too large can make training unstable, while one that is too small makes training very slow.
+
+Accuracy measures the share of correct predictions. For imbalanced data, precision and recall give a better picture than accuracy alone.

@@ -1,0 +1,13 @@
+Python Basics
+
+Python is a high-level programming language known for its simple and readable syntax. It is widely used in data science, web development and automation.
+
+A list is an ordered collection of items that can be changed after it is created. A tuple is similar to a list, but it cannot be modified once created. A dictionary stores data as key and value pairs and allows very fast lookups by key.
+
+A function is defined using the def keyword and can return a value using the return statement. Functions help to avoid repeating code and make programs easier to test.
+
+A for loop is used to go through every item of a sequence such as a list or a string. A while loop keeps running as long as its condition stays true.
+
+List comprehension is a short way to build a new list from an existing one in a single line. Exceptions are errors that happen while a program is running, and they can be handled with try and except blocks so the program does not crash.
+
+Libraries such as NumPy and Pandas make it easy to work with arrays and tables of data.
